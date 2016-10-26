@@ -7,7 +7,7 @@ Don't forget to check social media for hashtag [#HacktheStacks](https://twitter.
 
 See the [**wiki**](https://github.com/amnh/HacktheStacks/wiki) for all the details!
 
-Looking for repositories? Go to the [HackTheStacks organization page](https://github.com/HackTheStacks)
+Looking for hackathon project repositories? Go to the [HackTheStacks organization page](https://github.com/HackTheStacks)
 
 ___
 
