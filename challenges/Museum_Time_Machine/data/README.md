@@ -15,8 +15,8 @@ project also resulted in brief histories of these expeditions and
 biographies of those who participated in them to provide contextual
 information to support the finding aids and to provide general
 information. The data for the contextual records are encoded in the
-metadata standard: Encoded Archival Context -- Corporate Bodies,
-Persons and Families (EAC-CPF). The project team chose to use EAC-CPF
+metadata standard: [Encoded Archival Context -- Corporate Bodies,
+Persons and Families (EAC-CPF)](http://eac.staatsbibliothek-berlin.de/). The project team chose to use EAC-CPF
 in order to reconnect collections held in different AMNH Departments
 (effectively collocating materials that originated from the same
 expedition), to reduce redundant work by utilizing the
@@ -52,7 +52,7 @@ construction, opening, or contents of the hall.
 Google maps has assigned latitute and longitude values to individual
 halls. It may be possible to map a geographic location to each hall in
 cpfDescription > description > place > placeEntry. Should this be
-available at the time of ingest into xEAC, Columns G, H, I, and J can
+available at the time of ingest into [xEAC](https://github.com/amnh/HacktheStacks/wiki/Online-Resources-And-Data-Sets#amnh-library-authorities-xeac), Columns G, H, I, and J can
 be concatenated into a sentence for a descriptiveNote under
 placeEntry. Example: [Hall name] location on Floor [1], Section
 [1]. This may be harder for halls that have moved over time. Need to
@@ -60,9 +60,9 @@ review options here.
 
 _Suggestions_
 
-Use Data > Filter to isolate a section of data to search
-Filter can also perform keyword searches on a single column
-Sort data according to need (currently sorted alphabetically by Control name, source, floor)"
+* Use Data > Filter to isolate a section of data to search
+* Filter can also perform keyword searches on a single column
+* Sort data according to need (currently sorted alphabetically by Control name, source, floor)
 
 ---
 
@@ -91,12 +91,12 @@ Sort data according to need (currently sorted alphabetically by Control name, so
     COLUMN D = no map
     COLUMN E = cpfDescription > identity > nameEntry > part [if COLUMN L includes "amnhopac", then @authorizedForm="amnhopac"]
     COLUMN F = cpfDescription > identity > nameEntry > [part from COLUMN E] > useDates (multiple values separated by comma)
-    COLUMN G = locally defined field or ["Floor "] cpfDescription > description > biogHist > p
-    COLUMN H = locally defined field or ["Section "] cpfDescription > description > biogHist > p
-    COLUMN I = locally defined field or ["Section name "] cpfDescription > description > biogHist > p
-    COLUMN J = locally defined field or ["Hall number "] cpfDescription > description > biogHist > p
+    COLUMN G = locally defined field or ["Floor"] cpfDescription > description > biogHist > p
+    COLUMN H = locally defined field or ["Section"] cpfDescription > description > biogHist > p
+    COLUMN I = locally defined field or ["Section name"] cpfDescription > description > biogHist > p
+    COLUMN J = locally defined field or ["Hall number"] cpfDescription > description > biogHist > p
     COLUMN K = control > source > sourceEntry (multiple values separated by semicolon)
-    COLUMN L = cpfDescription > description > bioghist > p"
+    COLUMN L = cpfDescription > description > bioghist > p
 
 ---
 
