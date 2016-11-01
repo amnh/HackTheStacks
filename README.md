@@ -27,6 +27,6 @@ You agree that any original work you create is freely available without restrict
 
 **No Alcohol, Etc.** No alcohol or other controlled or illegal substances of any kind will be allowed at Hack the Stacks (excluding alcohol served as part of the event or medications taken at the direction of a physician). Possession of any such substances will result in immediate expulsion from Hack the Stacks, and any participant who appears to be intoxicated or under the influence of any such substance will be asked to leave the event immediately for the health and safety of all participants.
 
-**Only participants who are 18+ will be able to spend the night at the museum.** Minors will be asked to leave at 9:00 p.m. on Saturday night and can return at 9:00 a.m. Sunday morning.
+**Only participants who are 18+ will be able to spend the night at the museum.** Applications for participants under 18 are limited to the BridgeUp:STEM Brown Scholars only. All minors will be asked to leave at 9:00 p.m. on Saturday night and can return at 9:00 a.m. Sunday morning.
 
 **Please Contact Us Immediately Whenever You Need Assistance.** Museum staff and volunteers are available to help participants with any issues or concerns during the event.
