@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+  <control>
+    <!-- record ids must be unique, can be generated sequentially from amnhp_6000001
+    data in brackets below come from the expedition tracker app -->
+    <recordId>amnhp_6000001</recordId>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyCode>OCLC-YAM</agencyCode>
+      <agencyName>American Museum of Natural History</agencyName>
+    </maintenanceAgency>
+    <languageDeclaration>
+      <language languageCode="eng">English</language>
+      <script scriptCode="Latn">Latin</script>
+    </languageDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2016-11-20">20 November 2016</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>[Expedition Tracker]</agent>
+        <eventDescription>AMNH Hackathon demo.</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part>[Creator Name]</part>
+      </nameEntry>
+    </identity>
+    <description>
+      <biogHist>
+        <p></p>
+      </biogHist>
+    </description>
+    <relations>
+      <cpfRelation>
+        <relationEntry>[Expedition Name]</relationEntry>
+      </cpfRelation>
+      <resourceRelation>
+        <relationEntry>[Title of field resource]</relationEntry>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>
