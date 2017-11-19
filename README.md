@@ -7,7 +7,7 @@ Check out this year's [hackathon infographic](https://github.com/amnh/HackTheSta
 
 Don't forget to check social media for hashtag [#HacktheStacks](https://twitter.com/search?f=tweets&vertical=default&q=hackthestacks&src=typd)!
 
-See the [**wiki**](https://github.com/amnh/HacktheStacks/wiki) for all the details!
+See the [**wiki**](https://github.com/amnh/HacktheStacks/wiki) for all the details! 
 
 Looking for hackathon project repositories? Go to the [HackTheStacks organization page](https://github.com/HackTheStacks)
 
